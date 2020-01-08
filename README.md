@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mitpokerbots/engine-2020) 
+
 # MIT Pokerbots 2020 Engine
 MIT Pokerbots engine for 2020 and skeleton bots in Python, Java, and C++.
 
